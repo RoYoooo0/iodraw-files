@@ -137,8 +137,8 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-37" value="是否行业/主题基金&lt;div&gt;（虚拟变量，是则为1）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="282.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;基金总费率&lt;/div&gt;=基金管理费率+托管费率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1020" y="282.5" width="135" height="40" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-39" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基金总费率&lt;/span&gt;&lt;/div&gt;=基金管理费率+托管费率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="282.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-51" value="&lt;b&gt;&lt;u&gt;t-1季度&lt;/u&gt;&lt;/b&gt;&lt;div&gt;基金收益 = y(t-1)&lt;/div&gt;&lt;div&gt;基金波动率 = σ(t-1)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;累计基金经理更换次数 = 0&lt;/div&gt;&lt;div&gt;是否更换基金经理 = 否（0）&lt;/div&gt;&lt;div&gt;基金规模 = 1 亿元&lt;/div&gt;&lt;div&gt;基金规模增速 = 0%&lt;/div&gt;&lt;div&gt;重仓股集中度 = 50%&lt;/div&gt;&lt;div&gt;重仓股集中度变动量 = 0%&lt;/div&gt;&lt;div&gt;基金风格是否漂移 = 否（0）&lt;/div&gt;&lt;div&gt;存续年数 = 0年&lt;/div&gt;&lt;div&gt;是否行业/主题基金 = 是（1）&lt;/div&gt;&lt;div&gt;基金总费率 = 1.4%&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="480" width="240" height="230" as="geometry" />
