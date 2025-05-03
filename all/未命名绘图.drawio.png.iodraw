@@ -136,30 +136,30 @@
           <mxGeometry x="1020" y="282.5" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-51" value="t-1季度&lt;div&gt;基金收益=y(t-1)&lt;/div&gt;&lt;div&gt;基金波动率=σ(t-1)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="572.5" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-52" value="t季度&lt;div&gt;基金收益=y(t)&lt;/div&gt;&lt;div&gt;基金波动率=σ(t)&lt;/div&gt;&lt;div&gt;复制策略收益=x(t)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="572.5" width="160" height="80" as="geometry" />
+          <mxGeometry x="190" y="560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-53" target="zgFDgEKNqe95P8M5lX_g-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="672.5" />
-              <mxPoint x="660" y="672.5" />
+              <mxPoint x="420" y="660" />
+              <mxPoint x="640" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-53" value="t+1季度&lt;div&gt;&lt;div&gt;基金收益=y(t+1)&lt;/div&gt;&lt;div&gt;基金波动率=σ(t+1)&lt;/div&gt;&lt;div&gt;复制策略收益=x(t+1)&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="572.5" width="160" height="80" as="geometry" />
+          <mxGeometry x="340" y="560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.19;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-24" target="zgFDgEKNqe95P8M5lX_g-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-62" value="x(t) = α + βy(t-1) + βy(t) + ρσ(t-1) + ρσ(t) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="682.5" width="340" height="60" as="geometry" />
+          <mxGeometry x="110" y="670" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-64" value="x(t+1) = α + βy(t) + βy(t+1) + ρσ(t) + ρσ(t+1) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="682.5" width="340" height="60" as="geometry" />
+          <mxGeometry x="470" y="670" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-52" target="zgFDgEKNqe95P8M5lX_g-62">
           <mxGeometry relative="1" as="geometry" />
