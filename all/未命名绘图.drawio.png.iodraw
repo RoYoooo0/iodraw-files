@@ -87,6 +87,9 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-27" value="t-1季度基金规模增速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="302.5" y="410" width="125" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-29" value="t-1季度末基金规模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
