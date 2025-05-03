@@ -53,7 +53,7 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-18" value="单只基金收益的稳定性和持续性的影响因素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="210" width="246" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-20" value="t-1季度末累计基金经理更换次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
