@@ -108,9 +108,6 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-21" value="t-1季度是否更换基金经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="410" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-24" target="zgFDgEKNqe95P8M5lX_g-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-24" value="t-1季度末基金规模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="350" width="130" height="40" as="geometry" />
         </mxCell>
@@ -146,6 +143,9 @@
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-53" value="t+1季度&lt;div&gt;&lt;div&gt;基金收益=y(t+1)&lt;/div&gt;&lt;div&gt;基金波动率=σ(t+1)&lt;/div&gt;&lt;div&gt;复制策略=x(t+1)&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.19;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-24" target="zgFDgEKNqe95P8M5lX_g-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
