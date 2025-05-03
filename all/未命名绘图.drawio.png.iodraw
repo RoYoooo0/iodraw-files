@@ -44,8 +44,11 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-11" value="所选择的每只股票在投资组合中比例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="235" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-17" target="zgFDgEKNqe95P8M5lX_g-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-17" value="单只基金收益的稳定性和持续性对复制策略收益的具有重要影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="115" width="180" height="30" as="geometry" />
+          <mxGeometry x="543" y="107.5" width="180" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-18" value="单只基金收益的稳定性和持续性的影响因素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="340" width="246" height="40" as="geometry" />
