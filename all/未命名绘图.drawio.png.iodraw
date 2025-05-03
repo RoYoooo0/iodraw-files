@@ -55,6 +55,9 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-1" value="如何选择复制的标的基金" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="60" width="90" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
