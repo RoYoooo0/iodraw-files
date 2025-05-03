@@ -142,7 +142,12 @@
           <mxGeometry x="190" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-53" target="zgFDgEKNqe95P8M5lX_g-64">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="740" />
+              <mxPoint x="640" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-53" value="t+1季度&lt;div&gt;&lt;div&gt;基金收益=y(t+1)&lt;/div&gt;&lt;div&gt;基金波动率=σ(t+1)&lt;/div&gt;&lt;div&gt;复制策略收益=x(t+1)&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="640" width="160" height="80" as="geometry" />
@@ -153,7 +158,7 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-62" value="x(t) = α + βy(t-1) + βy(t) + ρσ(t-1) + ρσ(t) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="750" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-64" value="x(t) = α + βy(t-1) + βy(t) + ρσ(t-1) + ρσ(t) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-64" value="x(t+1) = α + βy(t) + βy(t+1) + ρσ(t) + ρσ(t+1) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="750" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-52" target="zgFDgEKNqe95P8M5lX_g-62">
