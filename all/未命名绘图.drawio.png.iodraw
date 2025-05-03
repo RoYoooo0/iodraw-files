@@ -75,8 +75,8 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-21" value="t-1季度是否更换基金经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="410" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-24" value="t-1季度末累计基金经理更换次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="360" width="180" height="40" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-24" value="t-1季度末基金规模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="470" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
