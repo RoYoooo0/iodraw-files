@@ -117,14 +117,13 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-27" value="t-1季度基金规模增速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="222.5" y="410" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.276;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-29" target="zgFDgEKNqe95P8M5lX_g-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="417" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-29" value="t-1季度末基金重仓股集中度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="350" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-31" target="zgFDgEKNqe95P8M5lX_g-33">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-31" value="t-1季度基金重仓股集中度变动量&lt;div&gt;=t-1季度基金重仓股集中度—&lt;span style=&quot;background-color: initial;&quot;&gt;t-2季度基金重仓股集中度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="420" width="300" height="60" as="geometry" />
