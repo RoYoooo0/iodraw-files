@@ -124,7 +124,7 @@
           <mxGeometry x="365" y="350" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-31" value="t-1季度基金重仓股集中度变动量&lt;div&gt;=t-1季度基金重仓股集中度 -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;t-2季度基金重仓股集中度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="430" width="300" height="60" as="geometry" />
+          <mxGeometry x="380" y="520" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-33" value="t-1季度基金投资风格是否漂移&lt;div&gt;（虚拟变量，漂移则为1）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="350" width="170" height="40" as="geometry" />
@@ -146,9 +146,6 @@
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-53" value="t+1季度&lt;div&gt;&lt;div&gt;基金收益=y(t+1)&lt;/div&gt;&lt;div&gt;基金波动率=σ(t+1)&lt;/div&gt;&lt;div&gt;复制策略=x(t+1)&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="640" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-57" value="t-1季度基金规模增速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="232.5" y="420" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
