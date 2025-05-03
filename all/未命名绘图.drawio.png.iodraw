@@ -138,8 +138,8 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-39" value="基金管理费率+托管费率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="350" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="98.75" width="120" height="60" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-44" value="持续性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="98.75" width="120" height="31.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
