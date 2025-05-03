@@ -127,8 +127,8 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-37" value="是否行业/主题基金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-39" value="是否行业/主题基金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="360" width="120" height="40" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-39" value="基金管理费率+托管费率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="410" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
