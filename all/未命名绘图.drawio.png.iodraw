@@ -81,7 +81,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-18" target="zgFDgEKNqe95P8M5lX_g-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="300" />
+              <mxPoint x="1020" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-18" value="单只基金收益的稳定性和持续性的影响因素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="210" width="246" height="40" as="geometry" />
@@ -121,6 +126,9 @@
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-37" value="是否行业/主题基金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-39" value="是否行业/主题基金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
