@@ -97,7 +97,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-18" target="zgFDgEKNqe95P8M5lX_g-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="230" />
+              <mxPoint x="770" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-18" value="单只基金收益的稳定性和持续性的影响因素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="210" width="246" height="40" as="geometry" />
