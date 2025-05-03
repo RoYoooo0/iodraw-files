@@ -52,8 +52,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="60" width="80" height="80" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-1" value="如何选择复制的标的基金" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
