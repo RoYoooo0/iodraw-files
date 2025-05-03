@@ -112,7 +112,7 @@
           <mxGeometry x="240" y="282.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-27" value="t-1季度基金规模增速&lt;div&gt;=(&lt;span style=&quot;background-color: initial;&quot;&gt;t-1季度末基金规模 -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;t-2季度末基金规模&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;) /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;t-2季度末基金规模&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="182.5" y="432.5" width="347.5" height="40" as="geometry" />
+          <mxGeometry x="182.5" y="414" width="347.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-29" target="zgFDgEKNqe95P8M5lX_g-31">
           <mxGeometry relative="1" as="geometry" />
@@ -144,8 +144,13 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-53" value="&lt;b&gt;&lt;u&gt;t+1季度&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;基金收益=y(t+1)&lt;/div&gt;&lt;div&gt;基金波动率=σ(t+1)&lt;/div&gt;&lt;div&gt;复制策略收益=x(t+1)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;累计基金经理更换次数 = 1&lt;/div&gt;&lt;div&gt;是否更换基金经理 = 是（1）&lt;/div&gt;&lt;div&gt;基金规模 = 1.21 亿元&lt;/div&gt;&lt;div&gt;基金规模增速 = 10%&lt;/div&gt;&lt;div&gt;重仓股集中度 = 30%&lt;/div&gt;&lt;div&gt;重仓股集中度变动量 = -10%&lt;/div&gt;&lt;div&gt;基金风格是否漂移 = 否（0）&lt;/div&gt;&lt;div&gt;存续年数 = 0年&lt;/div&gt;&lt;div&gt;是否行业/主题基金 = 是（1）&lt;/div&gt;&lt;div&gt;基金总费率 = 1.4%&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="480" width="220" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.19;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-24" target="zgFDgEKNqe95P8M5lX_g-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="415" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-62" value="x(t) = α + βy(t-1) + βy(t) + ρσ(t-1) + ρσ(t) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="740" width="340" height="60" as="geometry" />
