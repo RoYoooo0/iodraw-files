@@ -157,8 +157,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-62" value="x(t) = α + βy(t-1) + βy(t) + βy(t) +&amp;nbsp;ρσ(t-1) + ρσ(t) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="740" width="340" height="60" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-62" value="x(t) = α + βy(t-1) + βy(t) + βY(t-1)&amp;nbsp;+&amp;nbsp;ρσ(t-1) + ρσ(t) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="740" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-64" value="x(t+1) = α + βy(t) + βy(t+1) + ρσ(t) + ρσ(t+1) + δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="740" width="340" height="60" as="geometry" />
