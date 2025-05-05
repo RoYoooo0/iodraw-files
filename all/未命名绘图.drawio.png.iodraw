@@ -184,6 +184,9 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-62" value="x(t) = α + βy(t-1) + βy(t) + βY(t-1)&amp;nbsp;+ βY(t)&amp;nbsp;+&amp;nbsp;ρv(t-1) + ρv(t)&amp;nbsp;+ ρV(t-1)&amp;nbsp;+ ρV(t)&amp;nbsp;+ δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="830" width="500" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-64" target="zgFDgEKNqe95P8M5lX_g-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-64" value="x(t+1) = α + βy(t) + βy(t+1)&amp;nbsp;+ βY(t)&amp;nbsp;+ βY(t+1)&amp;nbsp;+ ρv(t) + ρv(t+1)&amp;nbsp;+ ρV(t)&amp;nbsp;+ ρV(t+1)&amp;nbsp;+ δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="900" width="520" height="60" as="geometry" />
         </mxCell>
@@ -200,7 +203,7 @@
           <mxGeometry x="476.25" y="980" width="287.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-90" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;t季度的&lt;/span&gt;复制策略收益x(t)是根据t季度初披露的t-1季度的基金重仓股建立的投资组合在t季度持有得到的收益&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="486.25" y="990" width="287.5" height="50" as="geometry" />
+          <mxGeometry x="756.25" y="1040" width="287.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
