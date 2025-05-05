@@ -143,9 +143,6 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-51" target="zgFDgEKNqe95P8M5lX_g-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-51" target="zgFDgEKNqe95P8M5lX_g-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-51" value="&lt;b&gt;&lt;u&gt;t-1季度&lt;/u&gt;&lt;/b&gt;&lt;div&gt;基金收益 = y(t-1)&lt;/div&gt;&lt;div&gt;基金0~t-1季度的累计收益=Y(t-1)&lt;/div&gt;&lt;div&gt;基金净值波动率 = v(t-1)&lt;/div&gt;&lt;div&gt;基金0~t季度日化波动率=V(t-1)&lt;/div&gt;&lt;div&gt;&lt;div&gt;复制策略收益=x(t-1)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;累计基金经理更换次数 = 0&lt;/div&gt;&lt;div&gt;是否更换基金经理 = 否（0）&lt;/div&gt;&lt;div&gt;基金规模 = 1 亿元&lt;/div&gt;&lt;div&gt;基金规模增速 = 0%&lt;/div&gt;&lt;div&gt;重仓股集中度 = 50%&lt;/div&gt;&lt;div&gt;重仓股集中度变动量 = 0%&lt;/div&gt;&lt;div&gt;基金风格是否漂移 = 否（0）&lt;/div&gt;&lt;div&gt;存续年数 = 0年&lt;/div&gt;&lt;div&gt;是否行业/主题基金 = 是（1）&lt;/div&gt;&lt;div&gt;基金总费率 = 1.4%&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="460" width="240" height="270" as="geometry" />
         </mxCell>
@@ -156,6 +153,9 @@
           <mxGeometry x="510" y="460" width="220" height="270" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-53" target="zgFDgEKNqe95P8M5lX_g-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-53" target="zgFDgEKNqe95P8M5lX_g-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-53" value="&lt;b&gt;&lt;u&gt;t+1季度&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;基金收益=y(t+1)&lt;/div&gt;&lt;div&gt;基金0~t+1季度的累计收益=Y(t+1)&lt;/div&gt;&lt;div&gt;基金净值波动率=v(t+1)&lt;/div&gt;&lt;div&gt;基金0~t季度日化波动率=V(t+1)&lt;/div&gt;&lt;div&gt;复制策略收益=x(t+1)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;累计基金经理更换次数 = 1&lt;/div&gt;&lt;div&gt;是否更换基金经理 = 是（1）&lt;/div&gt;&lt;div&gt;基金规模 = 1.21 亿元&lt;/div&gt;&lt;div&gt;基金规模增速 = 10%&lt;/div&gt;&lt;div&gt;重仓股集中度 = 30%&lt;/div&gt;&lt;div&gt;重仓股集中度变动量 = -10%&lt;/div&gt;&lt;div&gt;基金风格是否漂移 = 否（0）&lt;/div&gt;&lt;div&gt;存续年数 = 0年&lt;/div&gt;&lt;div&gt;是否行业/主题基金 = 是（1）&lt;/div&gt;&lt;div&gt;基金总费率 = 1.4%&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -180,6 +180,9 @@
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-82" value="&lt;b&gt;&lt;u&gt;...&lt;/u&gt;&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="460" width="50" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-84" value="&lt;b&gt;&lt;u&gt;t+1季度&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;基金收益=y(t+1)&lt;/div&gt;&lt;div&gt;基金0~t+1季度的累计收益=Y(t+1)&lt;/div&gt;&lt;div&gt;基金净值波动率=v(t+1)&lt;/div&gt;&lt;div&gt;基金0~t季度日化波动率=V(t+1)&lt;/div&gt;&lt;div&gt;复制策略收益=x(t+1)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;累计基金经理更换次数 = 1&lt;/div&gt;&lt;div&gt;是否更换基金经理 = 是（1）&lt;/div&gt;&lt;div&gt;基金规模 = 1.21 亿元&lt;/div&gt;&lt;div&gt;基金规模增速 = 10%&lt;/div&gt;&lt;div&gt;重仓股集中度 = 30%&lt;/div&gt;&lt;div&gt;重仓股集中度变动量 = -10%&lt;/div&gt;&lt;div&gt;基金风格是否漂移 = 否（0）&lt;/div&gt;&lt;div&gt;存续年数 = 0年&lt;/div&gt;&lt;div&gt;是否行业/主题基金 = 是（1）&lt;/div&gt;&lt;div&gt;基金总费率 = 1.4%&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="460" width="220" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
