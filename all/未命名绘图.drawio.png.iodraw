@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2169" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -178,8 +178,8 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-76" value="x(t-1) = α + βy(t-2) + βy(t-1) + βY(t-2)&amp;nbsp;+ βY(-1)&amp;nbsp;+&amp;nbsp;ρv(t-2) + ρv(t-1)&amp;nbsp;+ ρV(t-2)&amp;nbsp;+ ρV(t-1)&amp;nbsp;+ δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="760" width="550" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-82" value="&lt;b&gt;&lt;u&gt;t-1季度&lt;/u&gt;&lt;/b&gt;&lt;div&gt;基金收益 = y(t-1)&lt;/div&gt;&lt;div&gt;基金0~t-1季度的累计收益=Y(t-1)&lt;/div&gt;&lt;div&gt;基金净值波动率 = v(t-1)&lt;/div&gt;&lt;div&gt;基金0~t季度日化波动率=V(t-1)&lt;/div&gt;&lt;div&gt;&lt;div&gt;复制策略收益=x(t-1)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;累计基金经理更换次数 = 0&lt;/div&gt;&lt;div&gt;是否更换基金经理 = 否（0）&lt;/div&gt;&lt;div&gt;基金规模 = 1 亿元&lt;/div&gt;&lt;div&gt;基金规模增速 = 0%&lt;/div&gt;&lt;div&gt;重仓股集中度 = 50%&lt;/div&gt;&lt;div&gt;重仓股集中度变动量 = 0%&lt;/div&gt;&lt;div&gt;基金风格是否漂移 = 否（0）&lt;/div&gt;&lt;div&gt;存续年数 = 0年&lt;/div&gt;&lt;div&gt;是否行业/主题基金 = 是（1）&lt;/div&gt;&lt;div&gt;基金总费率 = 1.4%&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-50" y="460" width="240" height="270" as="geometry" />
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-82" value="&lt;b&gt;&lt;u&gt;。。。。。。。。。。。。。&lt;/u&gt;&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="460" width="240" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
