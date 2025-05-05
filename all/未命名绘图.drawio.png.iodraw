@@ -196,7 +196,7 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-84" value="&lt;b&gt;&lt;u&gt;...&lt;/u&gt;&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="460" width="50" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-89" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;t季度的&lt;/span&gt;复制策略收益x(t)是根据t季度初披露的t-1季度的基金重仓股建立的投资组合在t季度得到的收益&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-89" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;t季度的&lt;/span&gt;复制策略收益x(t)是根据t季度初披露的t-1季度的基金重仓股建立的投资组合在t季度持有得到的收益&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="482.5" y="980" width="275" height="50" as="geometry" />
         </mxCell>
       </root>
