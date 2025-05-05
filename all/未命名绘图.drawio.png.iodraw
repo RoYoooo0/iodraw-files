@@ -141,7 +141,12 @@
           <mxGeometry x="1020" y="282.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-51" target="zgFDgEKNqe95P8M5lX_g-76">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="760" />
+              <mxPoint x="390" y="760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-51" value="&lt;b&gt;&lt;u&gt;t-1季度&lt;/u&gt;&lt;/b&gt;&lt;div&gt;基金收益 = y(t-1)&lt;/div&gt;&lt;div&gt;基金0~t-1季度的累计收益=Y(t-1)&lt;/div&gt;&lt;div&gt;基金净值波动率 = v(t-1)&lt;/div&gt;&lt;div&gt;基金0~t季度日化波动率=V(t-1)&lt;/div&gt;&lt;div&gt;&lt;div&gt;复制策略收益=x(t-1)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;累计基金经理更换次数 = 0&lt;/div&gt;&lt;div&gt;是否更换基金经理 = 否（0）&lt;/div&gt;&lt;div&gt;基金规模 = 1 亿元&lt;/div&gt;&lt;div&gt;基金规模增速 = 0%&lt;/div&gt;&lt;div&gt;重仓股集中度 = 50%&lt;/div&gt;&lt;div&gt;重仓股集中度变动量 = 0%&lt;/div&gt;&lt;div&gt;基金风格是否漂移 = 否（0）&lt;/div&gt;&lt;div&gt;存续年数 = 0年&lt;/div&gt;&lt;div&gt;是否行业/主题基金 = 是（1）&lt;/div&gt;&lt;div&gt;基金总费率 = 1.4%&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="460" width="240" height="270" as="geometry" />
@@ -170,6 +175,9 @@
               <mxPoint x="305" y="415" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zgFDgEKNqe95P8M5lX_g-62" target="zgFDgEKNqe95P8M5lX_g-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zgFDgEKNqe95P8M5lX_g-62" value="x(t) = α + βy(t-1) + βy(t) + βY(t-1)&amp;nbsp;+ βY(t)&amp;nbsp;+&amp;nbsp;ρv(t-1) + ρv(t)&amp;nbsp;+ ρV(t-1)&amp;nbsp;+ ρV(t)&amp;nbsp;+ δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="830" width="500" height="60" as="geometry" />
