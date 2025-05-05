@@ -178,7 +178,7 @@
         <mxCell id="zgFDgEKNqe95P8M5lX_g-76" value="x(t-1) = α + βy(t-2) + βy(t-1) + βY(t-2)&amp;nbsp;+ βY(-1)&amp;nbsp;+&amp;nbsp;ρv(t-2) + ρv(t-1)&amp;nbsp;+ ρV(t-2)&amp;nbsp;+ ρV(t-1)&amp;nbsp;+ δcontrols +&amp;nbsp;ε" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="760" width="550" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zgFDgEKNqe95P8M5lX_g-82" value="&lt;b&gt;&lt;u&gt;。。。&lt;/u&gt;&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zgFDgEKNqe95P8M5lX_g-82" value="&lt;b&gt;&lt;u&gt;...&lt;/u&gt;&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="460" width="50" height="270" as="geometry" />
         </mxCell>
       </root>
